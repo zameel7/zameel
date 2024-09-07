@@ -1,7 +1,5 @@
 <div align="center">
 
-![I'm Zameel](https://user-images.githubusercontent.com/43750093/228450749-95fbcacf-9815-4a08-b683-6b43db52b3ce.png)
-
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hassan_zameel)
 [![Linkedin: Zameel](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/zameelhassan/)](https://www.linkedin.com/in/zameelhassan/)
 <br>
@@ -14,5 +12,3 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/zameelhassan)
 
 </div>
-
-[![An image of @zameel7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zameel7)](https://holopin.io/@zameel7)
